@@ -15,40 +15,39 @@ I don't upload short algorithm (less than 50 lines or less than 1 Ko or not very
 Mod PhoneGui
 
 ![alt text](https://github.com/Benjamin-Loison/Lot-of-Java-projects/raw/master/Minecraft%20mods%20and%20plugins/Finished/PhoneGui/PhoneGui.jpg)
-
-.
-├── Contests
-│   ├── BattleDevs
-│   └── IOI 17
-├── IP
-│   ├── CheckDuplicatedIp
-│   ├── FileToFileOfIp
-│   ├── GetCountryFromListOfIP
-│   ├── GetISPFromListOfIP
-│   ├── ListOfIpToFileOfIp
-│   └── RecoverIPByWebsite
-├── Minecraft
-│   ├── FlansMod
-│   ├── HostServicesWithGraphicalSoftwarePanel
-│   ├── Launchers
-│   └── Mods and plugins
-├── MyTools
-│   ├── CleanYouTubeMusicNames
-│   ├── CountLigns
-│   ├── LaTeX formatter.java
-│   ├── Morpion.java
-│   ├── Remove duplicates.java
-│   └── SortLessons OpenClassrooms for CV
-├── README.md
-├── School
-│   ├── AverageUsersWebSite.java
-│   ├── MessValues
-│   └── pronoteMarksChecker.java
-└── Security
-    ├── BruteForce
-    ├── ExtractDataChromeRecovery
-    ├── FTPFolderUploader
-    ├── Hash password database
-    ├── MineFacebookLogin.java
-    ├── StringObfuscator
-    └── Trojan
+. 
+├── Contests 
+│   ├── BattleDevs 
+│   └── IOI 17 
+├── IP 
+│   ├── CheckDuplicatedIp 
+│   ├── FileToFileOfIp 
+│   ├── GetCountryFromListOfIP 
+│   ├── GetISPFromListOfIP 
+│   ├── ListOfIpToFileOfIp 
+│   └── RecoverIPByWebsite 
+├── Minecraft 
+│   ├── FlansMod 
+│   ├── HostServicesWithGraphicalSoftwarePanel 
+│   ├── Launchers 
+│   └── Mods and plugins 
+├── MyTools 
+│   ├── CleanYouTubeMusicNames 
+│   ├── CountLigns 
+│   ├── LaTeX formatter.java 
+│   ├── Morpion.java 
+│   ├── Remove duplicates.java 
+│   └── SortLessons OpenClassrooms for CV 
+├── README.md 
+├── School 
+│   ├── AverageUsersWebSite.java 
+│   ├── MessValues 
+│   └── pronoteMarksChecker.java 
+└── Security 
+    ├── BruteForce 
+    ├── ExtractDataChromeRecovery 
+    ├── FTPFolderUploader 
+    ├── Hash password database 
+    ├── MineFacebookLogin.java 
+    ├── StringObfuscator 
+    └── Trojan 
